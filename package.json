@@ -1,0 +1,7 @@
+{
+  "name": "zenn-articles",
+  "private": true,
+  "devDependencies": {
+    "zenn-cli": "^0.5.4"
+  }
+}
